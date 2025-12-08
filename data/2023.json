@@ -278,7 +278,7 @@
                     },
                     {
                         "question_id": "Γ3",
-                        "text_latex": "Να υπολογίσετε το $\\int_{0}^{\ln 2} f(x)dx$.",
+                        "text_latex": "Να υπολογίσετε το $\\int_{0}^{\\ln 2} f(x)dx$.",
                         "points": 6
                     },
                     {
@@ -487,7 +487,8 @@
                     },
                     {
                         "question_id": "Γ3",
-                        "text_latex": "Να υπολογίσετε το $\\int_{0}^{\ln 2} f(x)dx$.",
+                        "text_latex": "Να υπολογίσετε το $\\int_{0}^{\\ln 2} f(x)dx$.",
+
                         "points": 7
                     },
                     {
