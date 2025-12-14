@@ -1,114 +1,125 @@
-[
-  {
-    "id": 1,
-    "year": "1983",
-    "school": "gel",
-    "exam": "gel_desmi_a",
-    "bundle": "A",
-    "bundle_name": "Δέσμη Α (1η)",
-    "source_pdf": "ΔΕΣΜΗ_Α1983.pdf",
-    "subject": "Μαθηματικά",
-    "topic": "A",
-    "topic_letter": "A",
-    "topic_number": "1",
-    "content": "ΓΕΝΙΚΕΣ ΕΞΕΤΑΣΕΙΣ 1983\nΔΕΣΜΗ ΠΡΩΤΗ (1η)\nΜΑΘΗΜΑΤΙΚΑ\n\nΖήτημα 1ο\nα) Αν $(a_\\nu),(b_\\nu)$ είναι ακολουθίες πραγματικών αριθμών με $\\lim a_\\nu=\\alpha$ και $\\lim b_\\nu=\\beta$, να αποδειχθεί ότι $\\lim(a_\\nu b_\\nu)=\\alpha\\beta$.\nβ) Να βρεθεί το όριο της ακολουθίας $(\\gamma_\\nu)$ με $\\gamma_\\nu=\\sqrt[\\nu]{\\nu^{\\nu+1}}(\\sqrt{\\nu^2+1}-\\nu)$."
-  },
-  {
-    "id": 2,
-    "year": "1983",
-    "school": "gel",
-    "exam": "gel_desmi_a",
-    "bundle": "A",
-    "bundle_name": "Δέσμη Α (1η)",
-    "source_pdf": "ΔΕΣΜΗ_Α1983.pdf",
-    "subject": "Μαθηματικά",
-    "topic": "B",
-    "topic_letter": "B",
-    "topic_number": "2",
-    "content": "Ζήτημα 2ο\nΗ συνάρτηση $f$ είναι ορισμένη και συνεχής στο $[\\alpha,\\beta]$, παραγωγίσιμη στο $(\\alpha,\\beta)$ και ισχύει $f(\\alpha)=f(\\beta)=0$.\nα) Να αποδειχθεί ότι για τη συνάρτηση $F(x)=\\frac{f(x)}{x-c}$ με $c\\notin[\\alpha,\\beta]$, υπάρχει $x_0\\in(\\alpha,\\beta)$ ώστε $F'(x_0)=0$.\nβ) Να αποδειχθεί ότι υπάρχει $x_0\\in(\\alpha,\\beta)$ ώστε η εφαπτομένη της $y=f(x)$ στο σημείο $(x_0,f(x_0))$ διέρχεται από το $(c,0)$."
-  },
-  {
-    "id": 3,
-    "year": "1983",
-    "school": "gel",
-    "exam": "gel_desmi_a",
-    "bundle": "A",
-    "bundle_name": "Δέσμη Α (1η)",
-    "source_pdf": "ΔΕΣΜΗ_Α1983.pdf",
-    "subject": "Μαθηματικά",
-    "topic": "C",
-    "topic_letter": "C",
-    "topic_number": "3",
-    "content": "Ζήτημα 3ο\nα) Να αποδειχθεί ότι για κάθε $x>0$ ισχύει $\\ln x\\le |x-1|$.\nβ) Δίνεται η συνάρτηση $f$ στο $[0,+\\infty)$ με $f(x)=\\frac{x\\ln x}{1-x}$ για $0<x<1$, $f(0)=0$ και $f(1)=-1$.\nΝα αποδειχθεί ότι:\ni) η $f$ είναι συνεχής,\nii) η $f$ είναι φθίνουσα στο $(0,1)$,\niii) $f'(1)=-\\frac{1}{2}$."
-  },
-  {
-    "id": 4,
-    "year": "1983",
-    "school": "gel",
-    "exam": "gel_desmi_a",
-    "bundle": "A",
-    "bundle_name": "Δέσμη Α (1η)",
-    "source_pdf": "ΔΕΣΜΗ_Α1983.pdf",
-    "subject": "Μαθηματικά",
-    "topic": "D",
-    "topic_letter": "D",
-    "topic_number": "4",
-    "content": "Ζήτημα 4ο\nΣτο τετράεδρο $OAB\\Gamma$ να αποδειχθεί ότι:\nα) Αν $\\vec{OA}\\cdot\\vec{B\\Gamma}=0$ και $\\vec{OB}\\cdot\\vec{\\Gamma A}=0$, τότε $\\vec{O\\Gamma}\\cdot\\vec{AB}=0$.\nβ) Αν $d_1$ είναι η απόσταση των μέσων των $OB,\\Gamma A$ και $d_2$ των $O\\Gamma,AB$, τότε $d_1=d_2$."
-  },
-  {
-    "id": 5,
-    "year": "1983",
-    "school": "gel",
-    "exam": "gel_desmi_d",
-    "bundle": "D",
-    "bundle_name": "Δέσμη Δ (4η)",
-    "source_pdf": "ΔΕΣΜΗ_Δ1983.pdf",
-    "subject": "Μαθηματικά",
-    "topic": "A",
-    "topic_letter": "A",
-    "topic_number": "1",
-    "content": "ΓΕΝΙΚΕΣ ΕΞΕΤΑΣΕΙΣ 1983\nΔΕΣΜΗ ΤΕΤΑΡΤΗ (4η)\nΜΑΘΗΜΑΤΙΚΑ\n\nΖήτημα 1ο\nα) Να αποδειχθεί ότι οι συντεταγμένες του $\\vec{a}+\\vec{b}$ είναι το άθροισμα των συντεταγμένων των $\\vec{a},\\vec{b}$.\nβ) Να βρεθεί η εξίσωση της ευθείας που διέρχεται από το $M(1,-1)$ και είναι παράλληλη προς $5x-9y+12=0$."
-  },
-  {
-    "id": 6,
-    "year": "1983",
-    "school": "gel",
-    "exam": "gel_desmi_d",
-    "bundle": "D",
-    "bundle_name": "Δέσμη Δ (4η)",
-    "source_pdf": "ΔΕΣΜΗ_Δ1983.pdf",
-    "subject": "Μαθηματικά",
-    "topic": "B",
-    "topic_letter": "B",
-    "topic_number": "2",
-    "content": "Ζήτημα 2ο\nα) Πότε μια συνάρτηση λέγεται συνεχής σε σημείο $x_0$;\nβ) Να εξεταστεί η συνέχεια:\ni) $f(x)=\\frac{4x^2-9x+2}{x-2}$ για $x\\ne2$, $f(2)=7$ στο $x_0=2$,\nii) $g(x)=x$ για $x\\ge0$, $g(x)=\\frac{1}{x}$ για $x<0$ στο $x_0=0$."
-  },
-  {
-    "id": 7,
-    "year": "1983",
-    "school": "gel",
-    "exam": "gel_desmi_d",
-    "bundle": "D",
-    "bundle_name": "Δέσμη Δ (4η)",
-    "source_pdf": "ΔΕΣΜΗ_Δ1983.pdf",
-    "subject": "Μαθηματικά",
-    "topic": "C",
-    "topic_letter": "C",
-    "topic_number": "3",
-    "content": "Ζήτημα 3ο\nα) Να δοθεί ο ορισμός της παραγώγου στο $x_0$ και η εξίσωση της εφαπτομένης στο $(x_0,f(x_0))$.\nβ) Να βρεθεί η εφαπτομένη της $y=x^3$ στο $(1,1)$."
-  },
-  {
-    "id": 8,
-    "year": "1983",
-    "school": "gel",
-    "exam": "gel_desmi_d",
-    "bundle": "D",
-    "bundle_name": "Δέσμη Δ (4η)",
-    "source_pdf": "ΔΕΣΜΗ_Δ1983.pdf",
-    "subject": "Μαθηματικά",
-    "topic": "D",
-    "topic_letter": "D",
-    "topic_number": "4",
-    "content": "Ζήτημα 4ο\nΔίνεται η συνάρτηση $f(x)=x^2-|x|-2$.\nΝα γίνει μελέτη και πρόχειρη γραφική παράσταση."
-  }
-]
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Μαθηματικά Γενικών Εξετάσεων 1983</title>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script" async></script>
+    <style>
+        body { font-family: "Segoe UI", Arial, sans-serif; margin: 40px; line-height: 1.8; background: #f5f5f5; color: #333; }
+        h1 { text-align: center; color: #2c3e50; }
+        .bundle { margin-bottom: 50px; border: 2px solid #3498db; padding: 25px; border-radius: 10px; background: #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+        .bundle h2 { color: #2980b9; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        .topic { margin-bottom: 35px; padding: 15px; background: #ecf0f1; border-radius: 8px; }
+        .topic-header { font-weight: bold; font-size: 1.4em; color: #e74c3c; margin-bottom: 15px; }
+        .content { white-space: pre-wrap; font-size: 1.1em; }
+        .math { display: block; text-align: center; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <h1>Μαθηματικά - Γενικές Εξετάσεις 1983</h1>
+
+    <div class="bundle">
+        <h2>Δέσμη Α (1η)</h2>
+
+        <div class="topic">
+            <div class="topic-header">Θέμα Α (1ο)</div>
+            <div class="content">ΓΕΝΙΚΕΣ ΕΞΕΤΑΣΕΙΣ 1983
+ΔΕΣΜΗ ΠΡΩΤΗ (1η)
+ΜΑΘΗΜΑΤΙΚΑ
+
+Ζήτημα 1ο
+α) Αν $(a_\nu),(b_\nu)$ ακολουθίες πραγματικών αριθμών με $\lim a_\nu=\alpha$ και $\lim b_\nu=\beta$, να αποδειχθεί ότι $\lim(a_\nu b_\nu)=\alpha\beta$.
+β) Να βρεθεί το όριο της ακολουθίας $(\gamma_\nu)$ με
+<div class="math">$$\gamma_\nu=\sqrt[\nu]{\nu^{\nu+1}}\left(\sqrt{\nu^2+1}-\nu\right).$$</div></div>
+        </div>
+
+        <div class="topic">
+            <div class="topic-header">Θέμα Β (2ο)</div>
+            <div class="content">Ζήτημα 2ο
+Η συνάρτηση $f$ είναι ορισμένη και συνεχής στο $[\alpha,\beta]$, παραγωγίσιμη στο $(\alpha,\beta)$ και ισχύει $f(\alpha)=f(\beta)=0$.
+α) Να αποδειχθεί ότι για τη συνάρτηση
+<div class="math">$$F(x)=\frac{f(x)}{x-c},\quad c\notin[\alpha,\beta],$$</div>
+υπάρχει $x_0\in(\alpha,\beta)$ ώστε $F'(x_0)=0$.
+β) Να αποδειχθεί ότι υπάρχει $x_0\in(\alpha,\beta)$ ώστε η εφαπτομένη της $y=f(x)$ στο σημείο $(x_0,f(x_0))$ διέρχεται από το $(c,0)$.</div>
+        </div>
+
+        <div class="topic">
+            <div class="topic-header">Θέμα Γ (3ο)</div>
+            <div class="content">Ζήτημα 3ο
+α) Να αποδειχθεί ότι για κάθε $x>0$ ισχύει
+<div class="math">$$\ln x\le |x-1|.$$</div>
+β) Δίνεται η συνάρτηση $f$ ορισμένη στο διάστημα $[0,+\infty)$ με
+<div class="math">$$f(x)=\begin{cases}
+\dfrac{x\ln x}{1-x}, & 0<x<1,\\
+0, & x=0,\\
+-1, & x=1.
+\end{cases}$$</div>
+Να αποδειχθεί ότι:
+i) Η $f$ είναι συνεχής στο πεδίο ορισμού της.
+ii) Η $f$ είναι φθίνουσα στο $(0,1)$.
+iii) $f'(1)=-\dfrac{1}{2}$.</div>
+        </div>
+
+        <div class="topic">
+            <div class="topic-header">Θέμα Δ (4ο)</div>
+            <div class="content">Ζήτημα 4ο
+Στο τετράεδρο $OAB\Gamma$ να αποδειχθεί ότι:
+α) Αν $\overrightarrow{OA}\cdot\overrightarrow{B\Gamma}=0$ και $\overrightarrow{OB}\cdot\overrightarrow{\Gamma A}=0$, τότε $\overrightarrow{O\Gamma}\cdot\overrightarrow{AB}=0$.
+β) Αν $\overrightarrow{OA}\cdot\overrightarrow{B\Gamma}=0$ και $d_1$ είναι η απόσταση των μέσων των πλευρών $OB$ και $\Gamma A$, ενώ $d_2$ είναι η απόσταση των μέσων των πλευρών $O\Gamma$ και $AB$, τότε $d_1=d_2$.</div>
+        </div>
+    </div>
+
+    <div class="bundle">
+        <h2>Δέσμη Δ (4η)</h2>
+
+        <div class="topic">
+            <div class="topic-header">Θέμα Α (1ο)</div>
+            <div class="content">ΓΕΝΙΚΕΣ ΕΞΕΤΑΣΕΙΣ 1983
+ΔΕΣΜΗ ΤΕΤΑΡΤΗ (4η)
+ΜΑΘΗΜΑΤΙΚΑ
+
+Ζήτημα 1ο
+α) Να αποδειχθεί ότι η τετμημένη καθώς και η τεταγμένη του αθροίσματος $\overrightarrow{a}+\overrightarrow{b}$ δυο διανυσμάτων $\overrightarrow{a}$ και $\overrightarrow{b}$ ισούται με το άθροισμα των τετμημένων και αντίστοιχα των τεταγμένων των διανυσμάτων $\overrightarrow{a}$ και $\overrightarrow{b}$.
+β) Να βρεθεί η εξίσωση ευθείας $(\varepsilon)$ που διέρχεται από το σημείο $M(1,-1)$ και είναι παράλληλη προς την ευθεία με εξίσωση $5x-9y+12=0$.</div>
+        </div>
+
+        <div class="topic">
+            <div class="topic-header">Θέμα Β (2ο)</div>
+            <div class="content">Ζήτημα 2ο
+α) Πότε μια συνάρτηση λέγεται συνεχής σε μια θέση $x_0$ του πεδίου ορισμού της;
+β) Να εξετάσετε ως προς τη συνέχεια τις συναρτήσεις με τύπους
+i) 
+<div class="math">$$f(x)=\begin{cases}
+\dfrac{4x^2-9x+2}{x-2}, & x\in\mathbb{R}\setminus\{2\},\\
+7, & x=2,
+\end{cases}$$</div>
+στη θέση $x_0=2$,
+ii) 
+<div class="math">$$g(x)=\begin{cases}
+x, & x\ge 0,\\
+\dfrac{1}{x}, & x<0,
+\end{cases}$$</div>
+στη θέση $x_0=0$.</div>
+        </div>
+
+        <div class="topic">
+            <div class="topic-header">Θέμα Γ (3ο)</div>
+            <div class="content">Ζήτημα 3ο
+α) Δίνεται συνάρτηση $f$ ορισμένη σε ένα διάστημα της μορφής $(x_0-\varepsilon,\,x_0+\varepsilon)$.
+i) Να αναφέρετε τι λέγεται παράγωγος της συνάρτησης $f$ στο σημείο $x_0$.
+ii) Να γράψετε την εξίσωση της ευθείας της εφαπτομένης σε ένα σημείο $M(x_0,f(x_0))$ της γραφικής παράστασης μιας συνάρτησης με τύπο $y=f(x)$.
+β) Να βρεθεί η εξίσωση της ευθείας που εφάπτεται στο σημείο $(1,1)$ της γραφικής παράστασης της συνάρτησης με τύπο $y=x^3$.</div>
+        </div>
+
+        <div class="topic">
+            <div class="topic-header">Θέμα Δ (4ο)</div>
+            <div class="content">Ζήτημα 4ο
+Δίνεται η συνάρτηση με τύπο
+<div class="math">$$f(x)=x^2-|x|-2.$$</div>
+Να γίνει μελέτη και πρόχειρη γραφική παράσταση της συνάρτησης αυτής.</div>
+        </div>
+    </div>
+
+</body>
+</html>
