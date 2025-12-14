@@ -4,43 +4,129 @@
     "year": "2002",
     "school": "gel",
     "exam": "gel_main",
-    "subject": "Μαθηματικά",
+    "subject": "Math",
     "topic": "A",
     "topic_letter": "A",
     "topic_number": "1",
-    "content": "ΑΠΟΛΥΤΗΡΙΕΣ ΕΞΕΤΑΣΕΙΣ Γ΄ ΤΑΞΗΣ ΕΝΙΑΙΟΥ ΛΥΚΕΙΟΥ ΠΕΜΠΤΗ 30 ΜΑΪΟΥ 2002, Μαθηματικά Θετικής και Τεχνολογικής Κατεύθυνσης.\nΘΕΜΑ 1ο\nΑ. Έστω $f$ μια συνεχής συνάρτηση σ' ένα διάστημα $[\\alpha,\\beta]$. Αν $G$ είναι μια παράγουσα της $f$ στο $[\\alpha,\\beta]$, τότε να δείξετε ότι $\\int_{\\alpha}^{\\beta} f(t)\\,dt = G(\\beta)-G(\\alpha)$. Μονάδες 12\nΒ.1. Έστω η συνάρτηση $f(x)=\\sin x$. Να δείξετε ότι η $f$ είναι παραγωγίσιμη στο $\\mathbb{R}$ και ισχύει $f'(x)=\\cos x$. Μονάδες 8\nΒ.2. Να χαρακτηρίσετε τις προτάσεις που ακολουθούν γράφοντας Σωστό ή Λάθος.\nα. Αν η $f$ είναι ορισμένη στο $[\\alpha,\\beta]$ και συνεχής στο $(\\alpha,\\beta]$, τότε παίρνει μέγιστη τιμή. Μονάδα 1\nβ. Κάθε 1-1 συνάρτηση είναι γνησίως μονότονη. Μονάδα 1\nγ. Αν $\\lim_{x\\to x_0} f(x)=0$, τότε $\\lim_{x\\to x_0}|f(x)|=0$. Μονάδα 1\nδ. Αν η $f$ είναι παραγωγίσιμη, τότε $\\int f(x)\\,dx = x f(x)-\\int x f'(x)\\,dx$. Μονάδα 1\nε. Αν $\\lim_{x\\to x_0} f(x)>0$, τότε $f(x)>0$ κοντά στο $x_0$. Μονάδα 1"
+    "content": "THEMA 1\nA. Let f be continuous on [a,b]. If G is an antiderivative of f on [a,b], prove that $int_a^b f(t) dt = G(b)-G(a)$. Units 12\nB1. Let f(x)=sin x. Prove that f is differentiable on R and f'(x)=cos x. Units 8\nB2. Mark True or False.\na. If f is defined on [a,b] and continuous on (a,b], then f has a maximum on [a,b].\nb. Every one-to-one function is strictly monotonic.\nc. If lim f(x)=0, then lim |f(x)|=0.\nd. If f is differentiable, then int f(x) dx = x f(x) - int x f'(x) dx.\ne. If lim f(x)>0 then f(x)>0 near x0."
   },
   {
     "id": 2,
     "year": "2002",
     "school": "gel",
     "exam": "gel_main",
-    "subject": "Μαθηματικά",
+    "subject": "Math",
     "topic": "B",
     "topic_letter": "B",
     "topic_number": "2",
-    "content": "ΘΕΜΑ 2ο\nΈστω $z$ μιγαδικός αριθμός και $f(\\nu)=i^{\\nu}z$, $\\nu\\in\\mathbb{N}^*$.\nα. Να δείξετε ότι $f(3)+f(8)+f(13)+f(18)=0$. Μονάδες 7\nβ. Αν $|z|=\\rho$ και $\\operatorname{Arg}(z)=\\theta$, να δείξετε ότι $f(13)=\\rho(\\cos(\\theta+\\frac{\\pi}{2})+i\\sin(\\theta+\\frac{\\pi}{2}))$. Μονάδες 8\nγ. Αν $|z|=2$ και $\\operatorname{Arg}(z)=\\frac{\\pi}{3}$, να βρεθεί το εμβαδόν του τριγώνου με κορυφές τα $0,z,f(13)$. Μονάδες 10"
+    "content": "THEMA 2\nLet z be a complex number and f(n)=i^n z.\na. Prove f(3)+f(8)+f(13)+f(18)=0.\nb. If |z|=r and Arg(z)=t, show f(13)=r(cos(t+pi/2)+i sin(t+pi/2)).\nc. If |z|=2 and Arg(z)=pi/3, find the area of the triangle with vertices 0, z, f(13)."
   },
   {
     "id": 3,
     "year": "2002",
     "school": "gel",
     "exam": "gel_main",
-    "subject": "Μαθηματικά",
+    "subject": "Math",
     "topic": "C",
     "topic_letter": "C",
     "topic_number": "3",
-    "content": "ΘΕΜΑ 3ο\nΈστω $f,g$ συναρτήσεις με πεδίο ορισμού το $\\mathbb{R}$ και η $f\\circ g$ είναι 1-1.\nα. Να δείξετε ότι η $g$ είναι 1-1. Μονάδες 7\nβ. Να δείξετε ότι η εξίσωση $g(f(x)+x^3-x)=g(f(x)+2x-1)$ έχει δύο θετικές και μία αρνητική ρίζα. Μονάδες 18"
+    "content": "THEMA 3\nLet f,g be functions on R and suppose f(g(x)) is one-to-one.\na. Prove g is one-to-one.\nb. Prove that g(f(x)+x^3-x)=g(f(x)+2x-1) has exactly two positive and one negative solution."
   },
   {
     "id": 4,
     "year": "2002",
     "school": "gel",
     "exam": "gel_main",
-    "subject": "Μαθηματικά",
+    "subject": "Math",
     "topic": "D",
     "topic_letter": "D",
     "topic_number": "4",
-    "content": "ΘΕΜΑ 4ο\nα. Έστω δύο συναρτήσεις $h,g$ συνεχείς στο $[\\alpha,\\beta]$. Αν $h(x)>g(x)$ για κάθε $x\\in[\\alpha,\\beta]$, να δείξετε ότι $\\int_{\\alpha}^{\\beta} h(x)\\,dx > \\int_{\\alpha}^{\\beta} g(x)\\,dx$. Μονάδες 2\nβ. Δίνεται η παραγωγίσιμη στο $\\mathbb{R}$ συνάρτηση $f$ με $e^{f(x)}-f(x)=x+1$, $x\\in\\mathbb{R}$ και $f(0)=0$.\n(i) Να εκφραστεί η $f'$ ως συνάρτηση της $f$. Μονάδες 5\n(ii) Να δείξετε ότι $\\frac{x}{2}<f(x)<f'(x)$ για κάθε $x>0$. Μονάδες 12\n(iii) Αν $E$ είναι το εμβαδόν του χωρίου $\\Omega$ που ορίζεται από τη γραφική παράσταση της $f$, τις ευθείες $x=0$, $x=1$ και τον άξονα $x'x$, να δείξετε ότι $\\frac{1}{4}<E<\\frac{f(1)}{2}$. Μονάδες 6"
-  }
-]
+    "content": "THEMA 4\na. Let h,g be continuous on [a,b]. If h(x)>g(x) for all x, prove int_a^b h(x) dx > int_a^b g(x) dx.\nb. Let f be differentiable on R and satisfy e^{f(x)}-f(x)=x+1 and f(0)=0.\n(i) Express f'(x) as a function of f(x).\n(ii) Prove x/2<f(x)<f'(x) for x>0.\n(iii) If E is the area bounded by the graph of f, x=0, x=1 and the x-axis, prove 1/4<E<f(1)/2."
+  },
+  {
+    "id": 5,
+    "year": "2002",
+    "school": "gel",
+    "exam": "gel_repeat",
+    "subject": "Math",
+    "topic": "A",
+    "topic_letter": "A",
+    "topic_number": "1",
+    "content": "REPEAT THEMA 1\nIf z1=r1(cos t1+i sin t1) and z2=r2(cos t2+i sin t2), prove z1 z2=r1 r2(cos(t1+t2)+i sin(t1+t2))."
+  },
+  {
+    "id": 6,
+    "year": "2002",
+    "school": "gel",
+    "exam": "gel_repeat",
+    "subject": "Math",
+    "topic": "B",
+    "topic_letter": "B",
+    "topic_number": "2",
+    "content": "REPEAT THEMA 2\nLet f(x)=(e^x-1)/(e^x+1).\na. Prove f is invertible and find f inverse.\nb. Prove f inverse(x)=0 has unique solution.\nc. Compute int_{-1/2}^{1/2} f inverse(x) dx."
+  },
+  {
+    "id": 7,
+    "year": "2002",
+    "school": "gel",
+    "exam": "gel_repeat",
+    "subject": "Math",
+    "topic": "C",
+    "topic_letter": "C",
+    "topic_number": "3",
+    "content": "REPEAT THEMA 3\nLet f(x)=(x^2+z^2)/(x^2+|z|^2).\na. Compute limits at plus and minus infinity.\nb. Find extrema if |z+1|>|z-1|.\nc. Find range and number of roots."
+  },
+  {
+    "id": 8,
+    "year": "2002",
+    "school": "gel",
+    "exam": "gel_repeat",
+    "subject": "Math",
+    "topic": "D",
+    "topic_letter": "D",
+    "topic_number": "4",
+    "content": "REPEAT THEMA 4\nLet f satisfy f''(x)f(x)+(f'(x))^2=f(x)f'(x) and f(0)=1.\na. Find f.\nb. Show int_x^{2x} g(t)/(1+f(t)^2) dt=1 has unique solution in [0,1]."
+  },
+  {
+    "id": 9,
+    "year": "2002",
+    "school": "gel",
+    "exam": "omogeneis",
+    "subject": "Math",
+    "topic": "A",
+    "topic_letter": "A",
+    "topic_number": "1",
+    "content": "OMOGENEIS THEMA 1\nIf f is differentiable at x0 prove it is continuous.\nFind equation of tangent at A(x0,f(x0))."
+  },
+  {
+    "id": 10,
+    "year": "2002",
+    "school": "gel",
+    "exam": "omogeneis",
+    "subject": "Math",
+    "topic": "B",
+    "topic_letter": "B",
+    "topic_number": "2",
+    "content": "OMOGENEIS THEMA 2\nGiven z1=1-2i, z2=3+4i.\na. If z1/z2=x+iy find x,y.\nb. If z1/z2 is a root of x^2+bx+2c=0 find b,c.\nc. Find locus |z-z1|=2|z-z2|."
+  },
+  {
+    "id": 11,
+    "year": "2002",
+    "school": "gel",
+    "exam": "omogeneis",
+    "subject": "Math",
+    "topic": "C",
+    "topic_letter": "C",
+    "topic_number": "3",
+    "content": "OMOGENEIS THEMA 3\nLet f(x)=2 sqrt(x+4)+1/(2 sqrt(x+4)).\na. Find tangent where graph meets y-axis.\nb. Find asymptotes.\nc. Find area bounded by graph, x-axis, x=0, x=1."
+  },
+  {
+    "id": 12,
+    "year": "2002",
+    "school": "gel",
+    "exam": "omogeneis",
+    "subject": "Math",
+    "topic": "D",
+    "topic_letter": "D",
+    "topic_number": "4",
+    "content": "OMOGENEIS THEMA 4\nLet f satisfy x f'(x)-2 f(x)=x and f(1)=0.\na. Show h(x)=f(x)/x^2 is increasing.\nb. Find f.\
