@@ -129,4 +129,6 @@
     "topic": "D",
     "topic_letter": "D",
     "topic_number": "4",
-    "content": "OMOGENEIS THEMA 4\nLet f satisfy x f'(x)-2 f(x)=x and f(1)=0.\na. Show h(x)=f(x)/x^2 is increasing.\nb. Find f.\
+    "content": "OMOGENEIS THEMA 4\nLet f satisfy x f'(x)-2 f(x)=x and f(1)=0.\na. Show h(x)=f(x)/x^2 is increasing.\nb. Find f.\nc. Compute lim_{x->1} int_1^x f(t) dt /(ln x)^2."
+  }
+]
