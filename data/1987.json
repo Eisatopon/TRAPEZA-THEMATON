@@ -81,5 +81,34 @@
     "topic": "B",
     "topic_letter": "B",
     "topic_number": "2",
-    "content": "Ζήτημα 2ο\nΑ. Αν $\\bar x$ είναι η μέση τιμή της μεταβλητής $X$, να αποδειχθεί ότι η μέση τιμή της $Y=\\alpha X+\\beta$ είναι\n$$\\bar y=\\alpha\\bar x+\\b
-
+    "content": "Ζήτημα 2ο\nΑ. Αν $\\bar x$ είναι η μέση τιμή της μεταβλητής $X$, να αποδειχθεί ότι η μέση τιμή της $Y=\\alpha X+\\beta$ είναι\n$$\\bar y=\\alpha\\bar x+\\beta.$$\nΒ. Να αποδειχθεί ότι\n$$\\begin{vmatrix}\\alpha&\\beta+1&1\\\\\\beta&\\alpha+1&1\\\\\\alpha+\\beta&1&1\\end{vmatrix}=0.$$"
+  },
+  {
+    "id": 7,
+    "year": "1987",
+    "school": "gel",
+    "exam": "gel_desmi_d",
+    "bundle": "D",
+    "bundle_name": "Δέσμη Δ (4η)",
+    "source_pdf": "ΔΕΣΜΗ_Δ1987.pdf",
+    "subject": "Μαθηματικά",
+    "topic": "C",
+    "topic_letter": "C",
+    "topic_number": "3",
+    "content": "Ζήτημα 3ο\nΝα βρεθούν οι τιμές των $\\lambda,\\mu$ ώστε τα συστήματα\n$$\\begin{cases}(2\\lambda-1)x+10\\mu y=3\\\\2x+4y=5\\end{cases}$$\nκαι\n$$\\begin{cases}(\\lambda-2)x-(\\mu+1)y=7\\\\3x-6y=5\\end{cases}$$\nνα είναι συγχρόνως αδύνατα."
+  },
+  {
+    "id": 8,
+    "year": "1987",
+    "school": "gel",
+    "exam": "gel_desmi_d",
+    "bundle": "D",
+    "bundle_name": "Δέσμη Δ (4η)",
+    "source_pdf": "ΔΕΣΜΗ_Δ1987.pdf",
+    "subject": "Μαθηματικά",
+    "topic": "D",
+    "topic_letter": "D",
+    "topic_number": "4",
+    "content": "Ζήτημα 4ο\nΑ. Να αποδειχθεί ότι αν μια συνάρτηση είναι παραγωγίσιμη στο $x_0$, τότε είναι συνεχής στο $x_0$.\nΒ. Δίνεται η συνάρτηση\n$$f(x)=\\alpha x^3+\\beta x^2+9x-12.$$\nΝα βρεθούν $\\alpha,\\beta\\in\\mathbb{R}$ ώστε το σημείο $A(2,-10)$ να ανήκει στη γραφική παράσταση και η εφαπτομένη στο $A$ να έχει συντελεστή διεύθυνσης $-3$."
+  }
+]
